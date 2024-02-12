@@ -1,0 +1,5 @@
+Hila Nissan 212226575
+I used IDA
+1. I notice that I don't get in the func given_flag becouse of a jump
+2. I changed the jump "je" to "jne" in line 116a like we do in the practice
+3. after that I get the secret flag PCTF{JuMp_uP_4nd_g3t_d0Wn}
